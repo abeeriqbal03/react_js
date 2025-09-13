@@ -127,7 +127,7 @@ function Footer() {
           <Link to="/contact" className="me-3">
             Contact
           </Link>
-          <Link to="/feedback">Feedback</Link>
+          <Link to="/feedback">Feedbacks</Link>
         </div>
       </div>
     </footer>
