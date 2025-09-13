@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "category": "Bedding",
+    "title": "Canine Crunch 5k",
+    "desc": "Soft and cozy bed for pets.",
+    "price": 11000,
+    "image": "/data/pictures/bedforpet.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Health",
+    "title": "Salmon oil",
+    "desc": "High protein oil .",
+    "price": 480,
+    "image": "/data/pictures/Brilliant-Salmon-Oil-For-Cats-and-Dogs-.jpeg"
+  },
+  {
+    "id": 3,
+    "category": "Bedding",
+    "title": "Cat blanket",
+    "desc": "Soft and cozy blanket for pets.",
+    "price": 1300,
+    "image": "/data/pictures/Cat blanket.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Toys",
+    "title": "Cat cage toy",
+    "desc": "Interactive rolling chase toy.",
+    "price": 200,
+    "image": "/data/pictures/Cat-Cage-Toy.jpg.webp"
+  },
+  {
+    "id": 5,
+    "category": "Toys",
+    "title": "cat stick toy",
+    "desc": "Formulated for growing puppies.",
+    "price": 199,
+    "image": "/data/pictures/cat-playing-stick. jpg.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Toys",
+    "title": "cat stick with mouse toy",
+    "desc": "Salmon & chicken mix for cats.",
+    "price": 799,
+    "image": "/data/pictures/cat-stick-with mouse .jpg.webp"
+  },
+  {
+    "id": 7,
+    "category": "Health",
+    "title": "Citof iron supplement",
+    "desc": "Safe and durable chew toy.",
+    "price": 499,
+    "image": "/data/pictures/Citof-Iron-Supplement-for-pet.jpeg"
+  },
+  {
+    "id": 8,
+    "category": "Health",
+    "title": "Cranco C Syrup",
+    "desc": "Formulated for growing puppies.",
+    "price": 500,
+    "image": "/data/pictures/Cranro-C-Syrup-.jpeg"
+  },
+  {
+    "id": 9,
+    "category": "Health",
+    "title": "Leash 1.5m",
+    "desc": "Strong and comfortable grip.",
+    "price": 269,
+    "image": "/data/pictures/Dog-Multivitamin-Chews-.jpg"
+  },
+  {
+    "id": 10,
+    "category": "Food",
+    "title": "Pedigree",
+    "desc": "Formulated for growing puppies.",
+    "price": 189,
+    "image": "/data/pictures/dogfood1.jpg"
+  },
+  {
+    "id": 11,
+    "category": "Food",
+    "title": "Puppy Paw",
+    "desc": "Formulated for growing puppies.",
+    "price": 549,
+    "image": "/data/pictures/dogfood2.jpg"
+  },
+  {
+    "id": 12,
+    "category": "Food",
+    "title": "dog food",
+    "desc": "Daily vitamins for dogs & cats.",
+    "price": 1238,
+    "image": "/data/pictures/dogfood3.jpg"
+  },
+  {
+    "id": 13,
+    "category": "Food",
+    "title": "Kibble n Bites",
+    "desc": "Soft and cozy bed for pets.",
+    "price": 1999,
+    "image": "/data/pictures/dogfood3.png"
+  },
+  {
+    "id": 14,
+    "category": "Bedding",
+    "title": "Dogs Bed",
+    "desc": "Lightweight and safe pet carrier.",
+    "price": 3599,
+    "image": "/data/pictures/dogs-bed.webp"
+  },
+  {
+    "id": 15,
+    "category": "Bedding",
+    "title": "Pet Tent House",
+    "desc": "Soft and cozy bed for pets.",
+    "price": 5900,
+    "image": "/data/pictures/foldable tent for pet.webp"
+  },
+  {
+    "id": 16,
+    "category": "Grooming",
+    "title": "Lint Brush",
+    "desc": "Lightweight and safe pet carrier.",
+    "price": 800,
+    "image": "/data/pictures/lint-brush.webp"
+  },
+  {
+    "id": 17,
+    "category": "Grooming",
+    "title": "Pet Hair Brush",
+    "desc": "Lightweight and safe pet carrier.",
+    "price": 1250,
+    "image": "/data/pictures/pet-hair-brush.webp"
+  }
+]

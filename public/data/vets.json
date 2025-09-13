@@ -1,0 +1,69 @@
+{
+  "vets": [
+    {
+      "id": 1,
+      "name": "Dr. Sarah Khan",
+      "specialization": "Small Animals (Dogs & Cats)",
+      "experience": "8 years",
+      "email": "sarah.khan@petclinic.com",
+      "phone": "+44 7700 900123",
+      "location": "London Pet Care Clinic, London",
+      "slots": {
+        "booked": ["10:00", "15:00"],
+        "available": ["09:00", "11:00", "13:00", "16:00"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Dr. James Patel",
+      "specialization": "Exotic Pets (Birds, Rabbits, Reptiles)",
+      "experience": "5 years",
+      "email": "james.patel@petclinic.com",
+      "phone": "+44 7700 900456",
+      "location": "Happy Tails Vet Centre, Birmingham",
+      "slots": {
+        "booked": ["12:00"],
+        "available": ["10:00", "14:00", "17:00"]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Dr. Maria Lopez",
+      "specialization": "Dental & Surgery",
+      "experience": "10 years",
+      "email": "maria.lopez@petclinic.com",
+      "phone": "+44 7700 900789",
+      "location": "Healthy Paws Clinic, Manchester",
+      "slots": {
+        "booked": ["11:00"],
+        "available": ["09:30", "13:30", "15:30"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Dr. Ahmed Ali",
+      "specialization": "Orthopedics & Trauma",
+      "experience": "12 years",
+      "email": "ahmed.ali@petclinic.com",
+      "phone": "+44 7700 901234",
+      "location": "Pawfect Care Hospital, Leeds",
+      "slots": {
+        "booked": ["09:00", "14:00"],
+        "available": ["11:00", "13:00", "16:00"]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Dr. Emily Watson",
+      "specialization": "Emergency & Critical Care",
+      "experience": "7 years",
+      "email": "emily.watson@petclinic.com",
+      "phone": "+44 7700 901567",
+      "location": "Vet4Pets Emergency Clinic, Bristol",
+      "slots": {
+        "booked": ["10:30"],
+        "available": ["09:00", "12:00", "15:00", "17:00"]
+      }
+    }
+  ]
+}

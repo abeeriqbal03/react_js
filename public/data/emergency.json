@@ -1,0 +1,14 @@
+[
+  {
+    "service": "24/7 Vet Hospital",
+    "phone": "+92-21-111-000-911"
+  },
+  {
+    "service": "Animal Rescue",
+    "phone": "+92-21-555-1212"
+  },
+  {
+    "service":"Emergency Email",
+    "phone": "help@furevercare.com"
+  }
+]

@@ -1,0 +1,2 @@
+import React from 'react'; import { loadJSON } from '../../utils.js'
+export default function Emergency(){ const [l,setL]=React.useState([]); React.useEffect(()=>{ loadJSON('/data/emergency.json').then(setL) },[]); return (<div className="section-enter"><h2 className="h4">Emergency & Vet Help</h2><table className="table table-sm"><tbody>{l.map((r,i)=>(<tr key={i}><td>{r.service}</td><td>{r.phone}</td></tr>))}</tbody></table></div>) }

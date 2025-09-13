@@ -1,0 +1,31 @@
+{
+  "health": [
+  {
+    "title": "Oral Care 101",
+    "content": "Brush weekly; vet toothpaste."
+  },
+  {
+    "title": "Vaccination Schedule",
+    "content": "Follow vet-recommended shots on time."
+  },
+  {
+    "title": "Healthy Diet",
+    "content": "Balanced meals; avoid table scraps."
+  }
+],
+  "training": [
+  {
+    "title": "Sit & Stay",
+    "content": "Positive reinforcement."
+  },
+  {
+    "title": "Leash Walking",
+    "content": "Reward calm walking beside you."
+  },
+  {
+    "title": "Come When Called",
+    "content": "Use treats and praise for recall."
+  }
+]
+
+}

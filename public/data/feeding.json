@@ -1,0 +1,87 @@
+{
+  "dogs": [
+    {
+      "stage": "Puppy",
+      "daily_meals": "3–4",
+      "notes": "Puppy formula with DHA."
+    },
+    {
+      "stage": "Adult",
+      "daily_meals": "2",
+      "notes": "Balanced diet with protein."
+    },
+    {
+      "stage": "Senior",
+      "daily_meals": "2",
+      "notes": "Low-fat senior formula."
+    }
+  ],
+  "cats": [
+    {
+      "stage": "Kitten",
+      "daily_meals": "3",
+      "notes": "High-protein kitten food."
+    },
+    {
+      "stage": "Adult",
+      "daily_meals": "2",
+      "notes": "Wet + dry food mix."
+    },
+    {
+      "stage": "Senior",
+      "daily_meals": "2",
+      "notes": "Easily digestible senior food."
+    }
+  ],
+  "birds": [
+    {
+      "stage": "Chick",
+      "daily_meals": "4",
+      "notes": "Special chick starter feed."
+    },
+    {
+      "stage": "Adult Parrot",
+      "daily_meals": "2",
+      "notes": "Pellets + fresh fruits."
+    },
+    {
+      "stage": "Canary",
+      "daily_meals": "2",
+      "notes": "Seeds + greens daily."
+    }
+  ],
+  "rabbits": [
+    {
+      "stage": "Young",
+      "daily_meals": "Unlimited hay + 2 pellets",
+      "notes": "Alfalfa hay for growth."
+    },
+    {
+      "stage": "Adult",
+      "daily_meals": "Unlimited hay + 1 pellet",
+      "notes": "Timothy hay base diet."
+    },
+    {
+      "stage": "Senior",
+      "daily_meals": "Unlimited hay + limited pellets",
+      "notes": "Low-calcium veggies."
+    }
+  ],
+  "fish": [
+    {
+      "stage": "Tropical Fish",
+      "daily_meals": "2–3 (small amounts)",
+      "notes": "Flakes + occasional bloodworms."
+    },
+    {
+      "stage": "Goldfish",
+      "daily_meals": "2",
+      "notes": "Pellets; avoid overfeeding."
+    },
+    {
+      "stage": "Betta Fish",
+      "daily_meals": "1–2",
+      "notes": "Special betta pellets."
+    }
+  ]
+}
